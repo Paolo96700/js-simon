@@ -1,0 +1,21 @@
+
+body {
+    background-color:aqua;
+}
+
+
+
+.container{
+    margin-top: 25vh;
+}
+
+.sub-container{
+    margin: auto;
+    padding: 8rem;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+
+
